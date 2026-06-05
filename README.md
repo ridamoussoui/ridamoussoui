@@ -32,8 +32,8 @@ Un développeur passionné par la création d'expériences web modernes, fluides
 ## 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridamoussoui&show_icons=true&theme=visual_studio_code&locale=fr" alt="Stats GitHub de Rida" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridamoussoui&layout=compact&theme=visual_studio_code&locale=fr" alt="Langages les plus utilisés par Rida" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ridamoussoui&show_icons=true&theme=visual_studio_code" alt="Stats GitHub de Rida" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridamoussoui&layout=compact&theme=visual_studio_code" alt="Langages les plus utilisés par Rida" height="150" />
 </p>
 
 ---
