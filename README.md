@@ -31,9 +31,14 @@ Un développeur passionné par la création d'expériences web modernes, fluides
 
 ## 📊 Mes Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ridamoussoui&theme=visual-studio-code&column=4" alt="Trophées GitHub" />
-</p>
+> ⚡ **Compte en cours de déploiement** : Mes statistiques de contribution seront entièrement indexées par GitHub d'ici quelques heures.
+
+| 📈 Activité & Objectifs | 🎯 Statuts actuels |
+| :--- | :--- |
+| **Projets en cours** | 🛠️ 5 Applications web en production (Lovable & React) |
+| **Spécialisation** | 🛒 Tunnels de vente E-commerce & Click and Collect |
+| **Disponibilité** | 🟢 Ouvert aux missions Freelance & Projets innovants |
+| **Qualité du code** | ⚡ Interfaces fluides, Pixel-Perfect et Responsive |
 ---
 
 ## ✉️ Me Contacter
